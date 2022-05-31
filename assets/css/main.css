@@ -1295,15 +1295,12 @@ input, select, textarea {
 		#header .logo {
 			width: 8.5rem;
 			height: 5.5rem;
-			/*
-			border: solid 1px #ffffff;
-			border-radius: 25%; */
 		}
 		
 			#header .logo .icon-betterLogo:before {
 				position: relative;
 				right: 37px;
-				line-height: 5.5rem;	
+				bottom: 20px;
 				font-size: 9.5rem;
 			}	
 
