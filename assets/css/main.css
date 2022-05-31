@@ -1293,13 +1293,13 @@ input, select, textarea {
 			}
 		
 		#header .logo {
-			width: 8.5rem;
+			width: 5.5rem;
 			height: 5.5rem;
 		}
 		
 			#header .logo .icon-betterLogo:before {
 				position: relative;
-				right: 37px;
+				right: 60px;
 				bottom: 20px;
 				font-size: 9.5rem;
 			}	
@@ -1445,9 +1445,9 @@ input, select, textarea {
 				}
 			
 			#header .logo {
-				width: 40.75rem;
-				height: 40.75rem;
-				line-height: 40.75rem;
+				width: 4.75rem;
+				height: 4.75rem;
+				line-height: 4.75rem;
 			}
 
 				#header .logo .icon:before {
@@ -1459,7 +1459,7 @@ input, select, textarea {
 			}
 
 			#header .content p {
-				line-height: 10.875;
+				line-height: 1.875;
 			}
 
 		}
