@@ -1451,6 +1451,8 @@ input, select, textarea {
 			}
 
 				#header .logo .icon:before {
+					position: relative;
+					padding-left: 20px;
 					font-size: 1.75rem;
 				}
 
