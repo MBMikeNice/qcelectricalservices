@@ -1299,7 +1299,7 @@ input, select, textarea {
 		
 			#header .logo .icon-betterLogo:before {
 				position: relative;
-				right: 60px;
+				right: 80px;
 				bottom: 20px;
 				font-size: 9.5rem;
 			}	
@@ -1641,6 +1641,8 @@ input, select, textarea {
 	}
 
 		#footer .copyright {
+			position: relative;
+			padding-right: 31px;
 			letter-spacing: 0.2rem;
 			font-size: 0.6rem;
 			opacity: 0.75;
