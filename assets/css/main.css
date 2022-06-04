@@ -1445,12 +1445,12 @@ input, select, textarea {
 				}
 			
 			#header .logo {
-				width: 4.75rem;
-				height: 4.75rem;
-				line-height: 4.75rem;
+				width: 1.75rem;
+				height: 1.75rem;
 			}
 
 				#header .logo .icon:before {
+					position: relative;
 					font-size: 1.75rem;
 				}
 
@@ -1642,7 +1642,7 @@ input, select, textarea {
 
 		#footer .copyright {
 			position: relative;
-			padding-right: 31px;
+			padding-right: 32px;
 			letter-spacing: 0.2rem;
 			font-size: 0.6rem;
 			opacity: 0.75;
